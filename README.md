@@ -15,3 +15,10 @@ Step 3 : Calculating the lift ratios for associations between brands and analysi
 Step 4 : Calculating the lift ratios between brands and attributes to understand strongly associated attributes with the respective brands Note: Assuming that the sentiment is positive.
 
 Step 5 : Providing insights for the product, marketing and advertising teams based on the relative observations from the MDS plot, lift ratios and brand associations with our hand-picked attributes
+
+
+
+Team Assignmet
+Contributed by: Yash Kashiwala
+                Rupam Dutta
+                Sudeshna Acharya
